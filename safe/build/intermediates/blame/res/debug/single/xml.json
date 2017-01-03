@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\xml\\example_appwidget_info.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\src\\main\\res\\xml\\example_appwidget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_sample.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\src\\main\\res\\xml\\device_admin_sample.xml"
+    }
+]

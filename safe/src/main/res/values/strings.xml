@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">卫士</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sample_device_admin_description">欢迎来到激活页面</string>
+    <string name="sample_device_admin">激活</string>
+    <string name="title_activity_app_manager">AppManagerActivity</string>
+    <string name="title_activity_task_manager">TaskManagerActivity</string>
+    <string name="title_activity_task_manager_setting">TaskManagerSettingActivity</string>
+    <string name="title_activity_antivirus">AntivirusActivity</string>
+    <string name="title_activity_app_lock">AppLockActivity</string>
+    <string name="title_activity_lock_pwd">LockPwdActivity</string>
+    <string name="title_activity_data_clear_acticity">DataClearActicity</string>
+    <string name="title_activity_data_clear">DataClearActivity</string>
+
+</resources>

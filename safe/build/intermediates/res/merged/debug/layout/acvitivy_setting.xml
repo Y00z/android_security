@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:yooz="http://schemas.android.com/apk/res/org.yooz.safe"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        style="@style/TitleStyle"
+        android:text="设置中心" />
+
+    <org.yooz.view.SettingItemView
+        android:id="@+id/set_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        yooz:Title="自动更新设置	"
+        yooz:desc_off="自动更新已经关闭"
+        yooz:desc_on="自动更新已经开启" />
+
+    <org.yooz.view.SettingItemView
+        android:id="@+id/set_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        yooz:Title="归属地显示"
+        yooz:desc_off="归属地显示已经关闭"
+        yooz:desc_on="归属地显示已经开启" />
+
+    <org.yooz.view.SettingClickView
+        android:id="@+id/scv_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <org.yooz.view.SettingClickView
+        android:id="@+id/scv_style_location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <org.yooz.view.SettingItemView
+        android:id="@+id/set_call_safe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        yooz:Title="电话黑名单"
+        yooz:desc_off="黑名单已经关闭"
+        yooz:desc_on="黑名单已经开启" />
+
+
+    <org.yooz.view.SettingItemView
+        android:id="@+id/watch_dog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        yooz:Title="看门狗"
+        yooz:desc_off="看门狗已经关闭"
+        yooz:desc_on="看门狗已经开启" />
+
+</LinearLayout>

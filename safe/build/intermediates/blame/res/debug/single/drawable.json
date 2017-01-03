@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\drawable\\atools_setup.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\src\\main\\res\\drawable\\atools_setup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\drawable\\atools.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\src\\main\\res\\drawable\\atools.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\drawable\\function_greenbutton_selector.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\src\\main\\res\\drawable\\function_greenbutton_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_box.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\src\\main\\res\\drawable\\gradient_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_reset_setup.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\src\\main\\res\\drawable\\btn_reset_setup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\drawable\\call_safe_delete.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\src\\main\\res\\drawable\\call_safe_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_ic_clear.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_selector.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\src\\main\\res\\drawable\\btn_green_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_prople.xml",
+        "source": "C:\\Users\\Yooz\\StudioProjects\\Android\\safe\\src\\main\\res\\drawable\\btn_green_prople.xml"
+    }
+]
